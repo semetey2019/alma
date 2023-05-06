@@ -38,9 +38,9 @@ class _MyHomePageState extends State<MyHomePage> {
         children: const [
           Center(
             child: Text(
-              'ALMA',
+              'ALMALAR',
               style: TextStyle(
-                fontSize: 40,
+                fontSize: 50,
                 fontWeight: FontWeight.w800,
                 color: Color.fromARGB(255, 240, 20, 38),
               ),
